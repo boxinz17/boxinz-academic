@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Statistics and Econometrics
     institution: University of Chicago
-    year: 2024 (expected)
+    year: 2024 (Expected)
   - course: MSc in Statistics
     institution: University of Chicago
     year: 2020
