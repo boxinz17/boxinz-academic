@@ -73,4 +73,4 @@ highlight_name: false
 
 Boxin Zhao is a PhD student in Econometrics and Statistics at University of Chicago, Booth School of Business. His research interests include machine learning, federated learning, probabilistic graphical models, and high-dimensional statistics, with a focus on developing novel methodologies with both practical applications and theoretical guarantees.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
